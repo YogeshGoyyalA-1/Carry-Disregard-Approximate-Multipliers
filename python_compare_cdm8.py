@@ -34,7 +34,7 @@ def compare_files(file1_path, file2_path):
     return num_different_lines, total_lines, modulus_sum, modulus_sum2, modulus_sum_square
 
 # Example usage
-file1_path = 'output_cdma8_51_val.txt'  # Path to the first file
+file1_path = 'output_cdma8_44_val.txt'  # Path to the first file
 file2_path = 'python_output_val.txt'  # Path to the second file
 
 num_different_lines, total_lines, modulus_sum, modulus_sum2,modulus_sum_square = compare_files(file1_path, file2_path)
