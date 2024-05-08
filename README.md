@@ -1,1 +1,1 @@
-Implemented the Paper 'Carrt Disregard Approximate Multiplier'
+Implemented the Paper 'Carry Disregard Approximate Multiplier'
