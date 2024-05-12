@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Fri Apr 12 00:23:57 2024
+# Process ID: 4556
+# Current directory: C:/Users/Dilli/Documents/FPGA/approx_mul/approx_mul.runs/synth_1
+# Command line: vivado.exe -log top_level.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top_level.tcl
+# Log file: C:/Users/Dilli/Documents/FPGA/approx_mul/approx_mul.runs/synth_1/top_level.vds
+# Journal file: C:/Users/Dilli/Documents/FPGA/approx_mul/approx_mul.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source top_level.tcl -notrace

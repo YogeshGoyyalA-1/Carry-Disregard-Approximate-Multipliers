@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Wed Apr 10 17:33:40 2024
+# Process ID: 28976
+# Current directory: C:/Users/Dilli/Documents/FPGA/approx_mul
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent28984 C:\Users\Dilli\Documents\FPGA\approx_mul\approx_mul.xpr
+# Log file: C:/Users/Dilli/Documents/FPGA/approx_mul/vivado.log
+# Journal file: C:/Users/Dilli/Documents/FPGA/approx_mul\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Dilli/Documents/FPGA/approx_mul/approx_mul.xpr
