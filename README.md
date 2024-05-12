@@ -10,6 +10,6 @@ The approximate multiplier was applied in low-pass filtering for image processin
 
 i) Clone the repository.
 
-ii) Navigate to any directory and execute the main and testbench files. For example, for cdm8_73, please run cdm8_73.v and cdm8_73_tb.v. Then, run python_compare_cdm8.py. The terminal will display the accuracy values of the approximate multipliers.
+ii) Navigate to any directory and execute the main and testbench files. For example, for cdm8_73, please run `cdm8_73.v` and `cdm8_73_tb.v`. Then, run `python_compare_cdm8.py` . The terminal will display the accuracy values of the approximate multipliers.
 
 iii) Next, synthesize cdm8_73 using the Cadence Genus tool to obtain the Hardware Efficiency Criteria(Power, Area, and Delay).
