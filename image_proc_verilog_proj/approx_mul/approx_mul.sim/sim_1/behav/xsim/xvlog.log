@@ -1,0 +1,32 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dilli/Documents/FPGA/approx_mul/approx_mul.srcs/sources_1/new/Arraymul_eight_four.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FA
+INFO: [VRFC 10-311] analyzing module PP
+INFO: [VRFC 10-311] analyzing module Arraymul_eight_four
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dilli/Documents/FPGA/approx_mul/approx_mul.srcs/sources_1/new/Exact8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FA
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'FA' [C:/Users/Dilli/Documents/FPGA/approx_mul/approx_mul.srcs/sources_1/new/Arraymul_eight_four.v:3]
+INFO: [VRFC 10-311] analyzing module PP
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'PP' [C:/Users/Dilli/Documents/FPGA/approx_mul/approx_mul.srcs/sources_1/new/Arraymul_eight_four.v:13]
+INFO: [VRFC 10-311] analyzing module Arraymul_eight_four
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'Arraymul_eight_four' [C:/Users/Dilli/Documents/FPGA/approx_mul/approx_mul.srcs/sources_1/new/Arraymul_eight_four.v:22]
+INFO: [VRFC 10-311] analyzing module FullAdder
+INFO: [VRFC 10-311] analyzing module CLA
+INFO: [VRFC 10-311] analyzing module cla_sixteen
+INFO: [VRFC 10-311] analyzing module array_combine_88
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dilli/Documents/FPGA/approx_mul/approx_mul.srcs/sources_1/new/cla_sixteen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FullAdder
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'FullAdder' [C:/Users/Dilli/Documents/FPGA/approx_mul/approx_mul.srcs/sources_1/new/cla_sixteen.v:3]
+INFO: [VRFC 10-311] analyzing module CLA
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'CLA' [C:/Users/Dilli/Documents/FPGA/approx_mul/approx_mul.srcs/sources_1/new/cla_sixteen.v:15]
+INFO: [VRFC 10-311] analyzing module cla_sixteen
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'cla_sixteen' [C:/Users/Dilli/Documents/FPGA/approx_mul/approx_mul.srcs/sources_1/new/cla_sixteen.v:77]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dilli/Documents/FPGA/approx_mul/approx_mul.srcs/sources_1/new/mul.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ImgProc_mult_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dilli/Documents/FPGA/approx_mul/approx_mul.srcs/sources_1/new/top_level.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FA
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'FA' [C:/Users/Dilli/Documents/FPGA/approx_mul/approx_mul.srcs/sources_1/new/top_level.v:23]
+INFO: [VRFC 10-311] analyzing module PP
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'PP' [C:/Users/Dilli/Documents/FPGA/approx_mul/approx_mul.srcs/sources_1/new/top_level.v:33]
+INFO: [VRFC 10-311] analyzing module top_level
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dilli/Documents/FPGA/approx_mul/approx_mul.srcs/sim_1/new/tb_mul.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_ImgProc
