@@ -8,7 +8,7 @@ Each directory has codes for the approximate multipliers, the test bench and a p
 
 The approximate multiplier was applied in low-pass filtering for image processing. Performance evaluation relied on Peak Signal-to-Noise Ratio (PSNR) and Structural Similarity Index Measure (SSIM) to gauge image quality.
 
-**Steps to run:**
+### Steps to run:
 
 i) Clone the repository.
 
