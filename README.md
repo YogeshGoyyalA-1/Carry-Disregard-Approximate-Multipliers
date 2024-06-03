@@ -1,3 +1,5 @@
+# This is an H1 heading
+
 Implemented the paper "Carry Disregard Approximate Multipliers" ,published in IEEE Transactions on Circuit and Systems, December 2023
 
 The implemented approximate multipliers are categorized into two types: CDM8 for 8-bit multipliers and CDM16 for 16-bit multipliers. 
