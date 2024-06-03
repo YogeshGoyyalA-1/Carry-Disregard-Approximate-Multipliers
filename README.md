@@ -1,4 +1,4 @@
-# This is an H1 heading
+# Carry Disregard Approximate Multipliers
 
 Implemented the paper "Carry Disregard Approximate Multipliers" ,published in IEEE Transactions on Circuit and Systems, December 2023
 
