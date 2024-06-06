@@ -10,7 +10,7 @@ The approximate multiplier was applied in low-pass filtering for image processin
 
 ### Steps to run:
 
-* Clone the repository.
+* Clone the repository
 
 * Navigate to any directory and execute the main and testbench files. For example, for cdm8_73, please run `cdm8_73.v` and `cdm8_73_tb.v`. Then, run `python_compare_cdm8.py` . The terminal will display the accuracy values of the approximate multipliers.
 
